@@ -1,2 +1,2 @@
 # AdmissionWebhooks
-Examples of Verifying and Mutating Admission Webhooks
+Examples of Validating and Mutating Admission Webhooks
